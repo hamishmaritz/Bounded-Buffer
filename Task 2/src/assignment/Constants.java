@@ -11,9 +11,6 @@ package assignment;
  * Can Be User Changed to Desired Buffer Size
  * @author Hamish
  */
-public final class Constants 
-{
-    
+public final class Constants {  
     public static final int BUFFER_SIZE = 5; // Defines the Buffer Size
-    
 }
